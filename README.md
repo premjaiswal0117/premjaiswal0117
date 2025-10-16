@@ -32,7 +32,7 @@
 
 ### 📫 Connect With Me
 - ✉️ Email: premjaiswal0117@example.com  
-- 🌐 LinkedIn: [Prem Jaiswal]([https://www.linkedin.com/in/premjaiswal0117/](https://www.linkedin.com/in/prem-jaiswal-667074370/))
+- 🌐 LinkedIn: [Prem Jaiswal](https://www.linkedin.com/in/prem-jaiswal-667074370/)
 
 ---
 
