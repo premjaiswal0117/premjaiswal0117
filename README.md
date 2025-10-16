@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**premjaiswal0117/premjaiswal0117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Aspiring Data Scientist** | 💻 **Python Developer** | 📊 **Learning Data Science**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+- 📚 Currently learning: **Data Science**, focusing on **NumPy**, **Pandas**, and **Python**
+- 💬 Ask me about: Python basics, data manipulation with Pandas, or file handling
+- ⚡ Fun fact: I love turning small ideas into working projects!
+
+---
+
+### 🧠 Skills & Tools
+- **Languages:** Python  
+- **Libraries:** NumPy, Pandas  
+- **Concepts:** Data Cleaning, Data Analysis, File Handling  
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
+
+---
+
+### 📈 GitHub Stats
+![Prem’s GitHub stats](https://github-readme-stats.vercel.app/api?username=premjaiswal0117&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premjaiswal0117&layout=compact&theme=radical)
+
+---
+
+### 📂 Featured Projects
+- 📊 Coming soon: Data Science practice notebooks (NumPy, Pandas)
+
+---
+
+### 📫 Connect With Me
+- ✉️ Email: premjaiswal0117@example.com  
+- 🌐 LinkedIn: [Prem Jaiswal](https://www.linkedin.com/in/premjaiswal0117/)
+
+---
+
+⭐ **“Keep learning, keep building — progress comes from practice.”**
